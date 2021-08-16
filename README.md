@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RudenAI
+- 👀 I’m interested in a bunch of stuff like making games and also trying out / developing AI modules.
+- 🌱 I’m currently learning how to master the art of AI.
+- 💞️ I’m looking to collaborate on anything i could be of use to.
